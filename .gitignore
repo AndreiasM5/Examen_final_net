@@ -1,0 +1,5 @@
+# .NET
+bin/
+obj/
+Migrations/
+to_do.txt
